@@ -1,2 +1,2 @@
 # WAD
-Veebirakenduste loomise praktikumi õppe repo
+Veebirakenduste loomise praktikumi õppe repo....ja lisatud tekst
